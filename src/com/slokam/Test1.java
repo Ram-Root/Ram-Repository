@@ -18,7 +18,7 @@ public class Test1 {
 		 Phone : 7702050018
 		 =================================================
 		 UAN No : 101769433732
-		 Password : Ramkrishna@0003
+		 Password : Sairamkrishna@12
 		 ===============================================
 		 Medi Buddy Password : Ramkrishna@003
 		 ===================================================
