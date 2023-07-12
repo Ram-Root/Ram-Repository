@@ -1,0 +1,45 @@
+2023-07-01 19:05:57.184  INFO 11644 --- [restartedMain] com.slokam.patient.PatientApplication    : Starting PatientApplication using Java 17.0.7 on DESKTOP-18Q9OVN with PID 11644 (G:\strive\springboot\patient\patient\target\classes started by Dell in G:\strive\springboot\patient\patient)
+2023-07-01 19:05:57.185 DEBUG 11644 --- [restartedMain] com.slokam.patient.PatientApplication    : Running with Spring Boot v2.7.13, Spring v5.3.28
+2023-07-01 19:05:57.186  INFO 11644 --- [restartedMain] com.slokam.patient.PatientApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-07-01 19:05:57.533  INFO 11644 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-07-01 19:05:57.549  INFO 11644 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 14 ms. Found 1 JPA repository interfaces.
+2023-07-01 19:05:57.721  INFO 11644 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-07-01 19:05:57.726  INFO 11644 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-01 19:05:57.727  INFO 11644 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.76]
+2023-07-01 19:05:57.786  INFO 11644 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-01 19:05:57.789  INFO 11644 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 594 ms
+2023-07-01 19:05:57.850  INFO 11644 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-07-01 19:05:57.862  INFO 11644 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2023-07-01 19:05:57.885  INFO 11644 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2023-07-01 19:05:57.886  INFO 11644 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-07-01 19:05:57.961  INFO 11644 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-07-01 19:05:57.962  INFO 11644 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-07-01 19:05:58.271  WARN 11644 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-07-01 19:05:58.419  INFO 11644 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-07-01 19:05:58.435  INFO 11644 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-01 19:05:58.443  INFO 11644 --- [restartedMain] com.slokam.patient.PatientApplication    : Started PatientApplication in 1.346 seconds (JVM running for 312.298)
+2023-07-01 19:05:58.447  INFO 11644 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-07-01 19:06:30.373  INFO 12520 --- [restartedMain] com.slokam.patient.PatientApplication    : Starting PatientApplication using Java 17.0.7 on DESKTOP-18Q9OVN with PID 12520 (G:\strive\springboot\patient\patient\target\classes started by Dell in G:\strive\springboot\patient\patient)
+2023-07-01 19:06:30.375 DEBUG 12520 --- [restartedMain] com.slokam.patient.PatientApplication    : Running with Spring Boot v2.7.13, Spring v5.3.28
+2023-07-01 19:06:30.377  INFO 12520 --- [restartedMain] com.slokam.patient.PatientApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-07-01 19:06:30.458  INFO 12520 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-01 19:06:30.459  INFO 12520 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-01 19:06:31.440  INFO 12520 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-07-01 19:06:31.525  INFO 12520 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 68 ms. Found 1 JPA repository interfaces.
+2023-07-01 19:06:32.748  INFO 12520 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-07-01 19:06:32.777  INFO 12520 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-01 19:06:32.779  INFO 12520 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.76]
+2023-07-01 19:06:32.962  INFO 12520 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-01 19:06:32.963  INFO 12520 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2503 ms
+2023-07-01 19:06:33.247  INFO 12520 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-07-01 19:06:33.426  INFO 12520 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-07-01 19:06:33.728  INFO 12520 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-07-01 19:06:33.962  INFO 12520 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-07-01 19:06:34.562  INFO 12520 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-07-01 19:06:34.597  INFO 12520 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-07-01 19:06:35.655  INFO 12520 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-07-01 19:06:35.676  INFO 12520 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-07-01 19:06:36.282  WARN 12520 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-07-01 19:06:36.957  INFO 12520 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-07-01 19:06:37.041  INFO 12520 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-01 19:06:37.077  INFO 12520 --- [restartedMain] com.slokam.patient.PatientApplication    : Started PatientApplication in 7.192 seconds (JVM running for 7.838)
